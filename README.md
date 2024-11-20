@@ -1,1 +1,3 @@
 # Dog_Cardiomegaly_Detection
+
+https://www.researchgate.net/publication/385947038_Lightweight_CNN_for_Dog_Cardiomegaly_Detection
